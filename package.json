@@ -1,0 +1,11 @@
+{
+  "name": "hadith-ts-ilal-hidden-defect",
+  "version": "1.0.0",
+  "description": "Hadith Ilal Hidden Defect & Shudhudh Anomaly Detector (كاشف العلل الخفية والشذوذ والاضطراب في الأسانيد)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
